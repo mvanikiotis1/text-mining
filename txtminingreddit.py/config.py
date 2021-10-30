@@ -1,0 +1,5 @@
+client_id = 'd1qWaB9AWxk13ZgXr11htA'
+client_secret = 'yd8jl9TKOYBKCLyZTpm423cjHyD_eQ'
+username = 'vanikiotis'
+password = 'AsdFghJkl123'
+user_agent = 'reddit scraper by vanikiotis'

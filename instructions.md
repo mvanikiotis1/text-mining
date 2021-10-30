@@ -68,7 +68,7 @@ pip install pymediawiki
 
 # or python -m pip install pymediawiki
 ```
-Given that you know the particular title of the article you would like to access, you can fetch the article and then print out its sections using the following Python program:
+Given that you know th e particular title of the article you would like to access, you can fetch the article and then print out its sections using the following Python program:
 
 ```
 from mediawiki import MediaWiki
